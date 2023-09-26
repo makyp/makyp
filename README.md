@@ -9,6 +9,7 @@
   <a href="https://github.com/makyp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maira-tatiana-quiroga-peralta-5baa48232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <!-- YT Links -->
+  <a href="https://tiktok.com/@makyp_" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/makyp_" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
   <br><a href="https://www.youtube.com/@makyp_9016" target="_blank"><img src="https://img.shields.io/badge/@makyp_9016-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!-- Social Links -->
@@ -18,8 +19,8 @@
 
 # ⭐️ Sobre mi
 
-   <p align="center">Soy Makyp 🎮 👩‍💻 <br> Soy estudiante de ingeniería de sistemas, me apasiona el diseño (FrontEnd) y los videojuegos, me encanta compartir mis conocimientos lo que quiere decir que hago contenido de Valorant (Mi videojuego favorito) y educativo e informativo con temas relacionados a ingeniería de sistemas. </p>
-<p align="center" >Me gusta apoyar iniciativas de mujeres en ingeniería y el videojuegos  <strong>#WomenInTech and #WomenInVideogames <br> Al parecer aun existen muchas brechas que no deberían existir</strong></p> 
+   <p align="center"><strong>Soy Makyp 🎮 👩‍💻 </strong><br> Soy estudiante de ingeniería de sistemas, me apasiona el diseño (FrontEnd) y los videojuegos, me encanta compartir mis conocimientos lo que quiere decir que hago contenido de Valorant (Mi videojuego favorito) y educativo e informativo con temas relacionados a ingeniería de sistemas. </p>
+<p align="center" >Me gusta apoyar iniciativas de mujeres en ingeniería y el videojuegos  <strong>#WomenInTech and #WomenInVideogames </strong><br> Al parecer aun existen muchas brechas que no deberían existir</p> 
 
 # 💻 Skills
 <div align="center">
@@ -39,5 +40,3 @@
 <div align="center">
   <!-- Lenguajes mas usados --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makyp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
-
-
