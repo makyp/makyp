@@ -1,9 +1,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=makyp&color=ff69b4"><br>
 <div align="center">
   <a>
-    <img align="center" width="200" src="https://github.com/makyp/makyp/assets/113260647/8bbd27fa-8fee-4a17-97c6-d679b155248f)">
+    <img align="center" src="https://github.com/makyp/makyp/assets/113260647/f24b985d-0d2a-4987-9ed3-fbe9c7733a04">
   </a>
 </div>
+&nbsp; 
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/makyp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
