@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=makyp&color=ff69b4"><br>
 <div align="center">
   <a>
-    <img align="center" src="https://github.com/makyp/makyp/assets/113260647/f24b985d-0d2a-4987-9ed3-fbe9c7733a04">
+    <img align="center" src="https://github.com/makyp/makyp/assets/113260647/b22cef98-3b81-4219-bf2b-73ce62525c8c">
   </a>
 </div>
 &nbsp; 
