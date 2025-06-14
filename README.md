@@ -16,7 +16,9 @@
 
 # ⭐️ Sobre mi
 
-   <p align="center"><strong>Soy Makyp 🎮 👩‍💻 </strong><br> Soy estudiante de ingeniería de sistemas, me apasiona el diseño (FrontEnd) y los videojuegos, me encanta compartir mis conocimientos lo que quiere decir que hago contenido de Valorant (Mi videojuego favorito) y educativo e informativo con temas relacionados a ingeniería de sistemas. </p>
+   <p align="center"><strong>Soy Makyp 🎮 👩‍💻 </strong><br> Soy desarrolladora de software full stack con más de dos años de experiencia especializada en desarrollo web y soluciones digitales escalables, egresada del programa de Ingeniera de Sistemas de la Universidad de Cundinamarca con tesis meritoria, lo que demuestra mi capacidad para ejecutar proyectos de alta complejidad técnica con excelencia académica.
+Me caracterizo por mi enfoque autodidacta, adaptabilidad tecnológica y compromiso con la mejora continua, además mi experiencia en metodologías ágiles ha fortalecido mis competencias en trabajo colaborativo, comunicación efectiva y entrega de valor constante, posicionándome como una profesional integral capaz de contribuir significativamente al éxito de proyectos tecnológicos innovadores.
+ </p>
 <p align="center" >Me gusta apoyar iniciativas de mujeres en ingeniería y el videojuegos  <strong>#WomenInTech and #WomenInVideogames </strong><br> Al parecer aun existen muchas brechas que no deberían existir</p> 
 
 # 💻 Skills
