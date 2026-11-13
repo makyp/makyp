@@ -22,23 +22,30 @@
 <p align="center"><strong>Soy Makyp 🎮 👩‍💻</strong></p>
 
 <p align="center">
-Desarrolladora de software <strong>full stack</strong> con más de dos años de experiencia en desarrollo web, apps móviles y soluciones digitales escalables.
-Ingeniera de Sistemas de la <strong>Universidad de Cundinamarca</strong>, con tesis meritoria.
+Desarrolladora de software <strong>full stack</strong> con más de dos años de experiencia e Ingeniera de Sistemas de la <strong>Universidad de Cundinamarca</strong>, con tesis meritoria.
 </p>
 
 <p align="center">
-Autodidacta, me adapto rápido a nuevas tecnologías y busco mejorar en cada proyecto.
-Trabajo con metodologías ágiles, me gusta colaborar en equipo, comunicar con claridad y entregar valor de forma constante.
+Me dedico al <strong>desarrollo de soluciones a la medida</strong>: escucho lo que necesita cada persona o negocio
+y lo convierto en una herramienta digital clara, útil y fácil de usar.
 </p>
 
 <p align="center">
-Apoyo las iniciativas de mujeres en la ingeniería y los videojuegos: <strong>#WomenInTech</strong> y <strong>#WomenInVideogames</strong>.<br>
-Todavía existen brechas que no deberían existir.
+🌐 Aplicaciones web &nbsp;·&nbsp; 📱 Apps móviles multiplataforma &nbsp;·&nbsp; 🎨 Diseño de interfaces (UI)<br>
+⚙️ Automatización de procesos &nbsp;·&nbsp; 🗄️ Integración de datos y servicios en la nube
 </p>
 
-# 🚀 Proyectos destacados
+<p align="center">
+Autodidacta y en aprendizaje constante. Trabajo con metodologías ágiles, me gusta colaborar en equipo,
+comunicar con claridad y entregar valor en cada iteración.
+</p>
 
-- **[FitMakyp](https://github.com/makyp/FitMakyp)** · App móvil en **Flutter** para entrenar, seguir tu progreso y crear hábitos, con una mascota que crece contigo. Rutinas guiadas, cámara con silueta para fotos de progreso, retos semanales, widgets de Android y privacidad total (todo se guarda en el teléfono).
+<p align="center">
+💜 Creo en una tecnología hecha por y para todas las personas. Apoyo las iniciativas que abren camino
+a más mujeres en la ingeniería y en los videojuegos, porque el talento no tiene género y la diversidad
+hace mejores productos.<br>
+<strong>#WomenInTech</strong> · <strong>#WomenInVideogames</strong>
+</p>
 
 # 💻 Skills
 
